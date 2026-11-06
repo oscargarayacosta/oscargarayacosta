@@ -21,7 +21,7 @@ Soy Oscar Garay, especialista en ciberseguridad. Trabajo en respuesta a incident
 
 ### 🛠️ Con qué trabajo
 
-`DFIR` · `Forense de navegadores` · `SQLite` · `Python` · `JavaScript` · 
+`DFIR` · `Respuesta a Incidentes` · `Análisis Forense` ·`Análisis de Malware` · `SQLite` · `Python` · `JavaScript` · 
 
 ### 💚 Apoya mis herramientas
 
