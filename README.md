@@ -2,7 +2,7 @@
 
 ### Hola 👋
 
-Soy Oscar Garay, especialista en ciberseguridad. Trabajo en respuesta a incidentes y análisis forense digital (DFIR), y en mi tiempo libre desarrollo herramientas gratuitas y en español para el día a día de los analistas.
+Soy Oscar Garay, especialista en ciberseguridad. Trabajo en respuesta a incidentes y análisis forense digital (DFIR), y en mi tiempo libre desarrollo herramientas gratuitas y en español.
 
 *Cybersecurity specialist working in incident response and digital forensics. In my spare time I build free forensic tools in Spanish.*
 
@@ -21,7 +21,7 @@ Soy Oscar Garay, especialista en ciberseguridad. Trabajo en respuesta a incident
 
 ### 🛠️ Con qué trabajo
 
-`DFIR` · `Forense de navegadores` · `SQLite` · `Python` · `JavaScript` · `Línea de tiempo` · `Integridad de evidencia`
+`DFIR` · `Forense de navegadores` · `SQLite` · `Python` · `JavaScript` · 
 
 ### 💚 Apoya mis herramientas
 
